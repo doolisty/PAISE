@@ -1,0 +1,3 @@
+[submodule "course"]
+	path = course
+	url = https://github.com/doolisty/6S081_2021Fall
