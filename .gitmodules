@@ -1,3 +1,6 @@
 [submodule "courses/6S081_2021Fall"]
 	path = courses/6S081_2021Fall
 	url = https://github.com/doolisty/6S081_2021Fall
+[submodule "courses/dlsys2023"]
+	path = courses/dlsys2023
+	url = https://github.com/doolisty/dlsys2023
